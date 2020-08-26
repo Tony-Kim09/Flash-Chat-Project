@@ -1,6 +1,8 @@
 
 # Flash Chat ⚡️
 
+![Finished Project](https://github.com/Tony-Kim09/Flash-Chat-Project/blob/master/images/flashchat.PNG)
+
 ## What I Created
 
 This app is a simple chatting program that utilizes Firebase Cloud Firestore. 
