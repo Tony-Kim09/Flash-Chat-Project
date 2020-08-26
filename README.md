@@ -1,24 +1,20 @@
 
 # Flash Chat ⚡️
 
-## Our Goal
+## What I Created
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+This app is a simple chatting program that utilizes Firebase Cloud Firestore. 
 
+## What I Learned
 
-## What you will create
+- Used Firebase as a cloud storage system that stored Username, Password, as well as chat history
+- Learned how to create simple animation using Flutter Hero widget
+- Used Firebase authentication to register and sign in users
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+## How to test the app yourself
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+Before you try to run this app, you will first need Android Studio as well as download and install Flutter.
+https://flutter.dev/docs/get-started/install
+After you open the project, make sure to click "Pub Get" or "Get Dependencies" for it to work.
 
-## What you will learn
-
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+Then, you will have to sign up for Googles Firebase and create an account. Follow the instructions and then add the google services JSON file to android/app folder.
