@@ -12,6 +12,7 @@ This app is a simple chatting program that utilizes Firebase Cloud Firestore.
 - Used Firebase as a cloud storage system that stored Username, Password, as well as chat history
 - Learned how to create simple animation using Flutter Hero widget
 - Used Firebase authentication to register and sign in users
+- Working with NoSQL data to parse and display chat data
 
 ## How to test the app yourself
 
