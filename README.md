@@ -5,7 +5,7 @@
 
 ## What I Created
 
-This app is a simple chatting program that utilizes Firebase Cloud Firestore. 
+This app is a simple chatting program that utilizes Firebase Cloud Firestore following AppBrewery bootcamp tutorials. 
 
 ## What I Learned
 
